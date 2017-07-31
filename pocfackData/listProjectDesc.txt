@@ -1,0 +1,140 @@
+﻿{
+
+"list":[ {
+"ProjectID":"0001",
+"ProjectName":"有愛無類",
+"Introduction":"愛心不分類別，對需要的人伸出援手",
+"ProjectLimit":"20000000",
+"DonCount":"1582",
+"DonAmount":"3000000",
+"AppCount":"855",
+"AppAmount":"2600000",
+"ProjectStatus":"0"
+   },
+{
+"ProjectID":"0002",
+"ProjectName":"一日捐",
+"Introduction":"「一日捐」，讓小錢也有大作為！",
+"ProjectLimit":"10000000",
+"DonCount":"30",
+"DonAmount":"150000",
+"AppCount":"5",
+"AppAmount":"25000",
+"ProjectStatus":"0"
+   },
+{
+"ProjectID":"0003",
+"ProjectName":"LOVE LINK讓愛串門子",
+"Introduction":"串聯你我他 改變的未來 就在眼前",
+"ProjectLimit":"5000000",
+"DonCount":"300",
+"DonAmount":"1000250",
+"AppCount":"225",
+"AppAmount":"800000",
+"ProjectStatus":"0"
+   }
+,{
+"ProjectID":"0004",
+"ProjectName":"幸福家倍",
+"Introduction":"幫助弱勢家庭邁向穩定經濟生活",
+"ProjectLimit":"5000000",
+"DonCount":"3250",
+"DonAmount":"35008722",
+"AppCount":"2550",
+"AppAmount":"25631000",
+"ProjectStatus":"0"
+   },
+{
+"ProjectID":"0005",
+"ProjectName":"「孩」有機會",
+"Introduction":"讓孩子與家庭　從Ａ到Ａ＋家",
+"ProjectLimit":"5000000",
+"DonCount":"500",
+"DonAmount":"600000",
+"AppCount":"365",
+"AppAmount":"480000",
+"ProjectStatus":"0"
+   },{
+"ProjectID":"0006",
+"ProjectName":"樂齡360疼惜老寶貝",
+"Introduction":"不只寶可夢 更要「老可夢」",
+"ProjectLimit":"3000000",
+"DonCount":"60",
+"DonAmount":"100005",
+"AppCount":"25",
+"AppAmount":"60000",
+"ProjectStatus":"0"
+   },
+{
+"ProjectID":"0007",
+"ProjectName":"定期定額捐款",
+"Introduction":"改變生命的習慣",
+"ProjectLimit":"10000000",
+"DonCount":"886",
+"DonAmount":"8000600",
+"AppCount":"756",
+"AppAmount":"7000000",
+"ProjectStatus":"0"
+   },{
+"ProjectID":"0008",
+"ProjectName":"生日捐",
+"Introduction":"助你生日最快樂！",
+"ProjectLimit":"2000000",
+"DonCount":"50",
+"DonAmount":"60000",
+"AppCount":"20",
+"AppAmount":"25000",
+"ProjectStatus":"0"
+   },{
+"ProjectID":"0009",
+"ProjectName":"喜上加喜婚禮捐",
+"Introduction":"以愛為證 Yes, I do.",
+"ProjectLimit":"5000000",
+"DonCount":"888",
+"DonAmount":"2360000",
+"AppCount":"800",
+"AppAmount":"2300000",
+"ProjectStatus":"0"
+   },{  
+            "ProjectID":"000A",
+            "ProjectName":"樂齡360疼惜老寶貝D",
+            "ProjectLimit":"3000000",
+            "DonCount":"60",
+            "DonAmount":"100005",
+            "AppCount":"25",
+            "AppAmount":"60000",
+            "ProjectStatus":"D"
+         },
+         {  
+            "ProjectID":"000B",
+            "ProjectName":"定期定額捐款D",
+            "ProjectLimit":"10000000",
+            "DonCount":"886",
+            "DonAmount":"8000600",
+            "AppCount":"756",
+            "AppAmount":"7000000",
+            "ProjectStatus":"D"
+         },
+         {  
+            "ProjectID":"000C",
+            "ProjectName":"生日捐D",
+            "ProjectLimit":"2000000",
+            "DonCount":"50",
+            "DonAmount":"60000",
+            "AppCount":"20",
+            "AppAmount":"25000",
+            "ProjectStatus":"D"
+         },
+         {  
+            "ProjectID":"000D",
+            "ProjectName":"喜上加喜婚禮捐D",
+            "ProjectLimit":"5000000",
+            "DonCount":"888",
+            "DonAmount":"2360000",
+            "AppCount":"800",
+            "AppAmount":"2300000",
+            "ProjectStatus":"D"
+         }
+
+ ]
+}

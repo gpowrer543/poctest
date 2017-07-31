@@ -1,0 +1,8 @@
+{
+    "Name": "公益捐款",
+    "Version": "CV-001",
+    "InitDt": "20170620",
+    "Initializer": "GW950",
+    "AccountBank": "GW005,GW950",
+    "Participants": "GW950,GW008,GW017,GW050,GW053,GW018,GW807,GW808,GW006"
+}
